@@ -52,48 +52,4 @@ public class Employe{
         }
     }
 }
-         OUTPUT
-
-C:\Users\l\Desktop\java>javac Employe.java
-
-C:\Users\l\Desktop\java>java Employe
-Enter the limit:
-2
-name:
-Anandhu
-Employee id:
-1
-salary:
-25000
-address:
-sreevihar
-Department name:
-IT
-Subject:
-Java
-Details are:
-Anandhu
-1
-sreevihar
-Java
-IT
-25000
-name:
-Amal
-Employee id:
-2
-salary:
-23000
-address:
-kuttida house
-Department name:
-CS
-Subject:
-Android
-Details are:
-Amal
-2
-kuttida
-Android
-CS
-23000
+         
