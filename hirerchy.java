@@ -84,40 +84,4 @@ public class hirerchy {
         }
     }
 }
-    Output
-C:\Users\l\Desktop\java>javac hirerchy.java
-
-C:\Users\l\Desktop\java>java hirerchy
-Enter the limit:
-1
-Enter publisher details
-Publiser name:
-aaaa
-Publiser Id:
-1
-Book details:
-Book name
-bbbb
-Book Id
-2
-Chapter Name:
-ccc
-Chapter number:
-3
-Topic
-ddd
-Details are:
-Publisher Name:
-aaaa
-Pblisher Id:
-1
-Book name:
-bbbb
-Book Id:
-2
-Chapter:
-ccc
-Chapter Number
-3
-Topic:
-ddd
+    
